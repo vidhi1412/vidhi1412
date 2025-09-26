@@ -36,6 +36,6 @@ I prioritise clear documentation, helpful PR descriptions, and friendly issue/di
 
 ## 📫 Connect
 
-* LinkedIn: `[https://www.linkedin.com/in/vidi1412](https://www.linkedin.com/in/vidhi-srivastava-671100244/)`  
+* LinkedIn: `[vidhi-srivastava](https://www.linkedin.com/in/vidhi-srivastava-671100244/)`  
 * Portfolio: `https://your-portfolio.example.com`  
 * Email: `vidhi.srivastavag1280@gmail.com`
