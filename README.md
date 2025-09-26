@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**vidhi1412/vidhi1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE • Web Developer (React + Tailwind) • DSA Enthusiast • Open-source Contributor
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 About
+
+Passionate undergraduate focused on building responsive web apps and solving algorithmic problems. I enjoy turning ideas into polished projects, writing clean code, and explaining technical concepts clearly — communication is my superpower for teamwork, documentation, and mentoring.
+
+## 🔭 Current focus
+
+* Improving full-stack projects (React + Vite + Tailwind)
+* Practising DSA and competitive programming
+* Contributing meaningful PRs to open-source projects
+
+## 🛠️ Skills
+
+**Languages:** Python · Java · JavaScript  
+
+**Frontend:** React · Vite · Tailwind CSS · HTML · CSS  
+
+**Backend & DB:** Node.js (basics) · Firebase · REST APIs  
+
+**Tools & Platforms:** Git · GitHub · VS Code · GitHub Actions · Linux · Chrome DevTools  
+
+**Computer Science:** Data Structures & Algorithms · Problem Solving · System Design (fundamentals)
+
+---
+
+## 💬 Communication & open source
+
+I prioritise clear documentation, helpful PR descriptions, and friendly issue/discussion responses. Good communication helps me onboard contributors, explain design decisions, and collaborate across teams.
+
+---
+
+## 📫 Connect
+
+* LinkedIn: `https://www.linkedin.com/in/vidi1412`  
+* Portfolio: `https://your-portfolio.example.com`  
+* Email: `you@example.com`
